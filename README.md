@@ -6,6 +6,6 @@ The code is borrowed from this [tutorial](https://github.com/NielsRogge/Transfor
 
 # Run with Moreh framework
 
-conda create -n dpt python=3.8
-update-moreh --force --target 23.3.0
-pip3 install transformers
+  conda create -n dpt python=3.8
+  update-moreh --force --target 23.3.0
+  pip3 install transformers
